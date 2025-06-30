@@ -1,0 +1,7 @@
+C:\Users\canal\source\repos\Trabalho  atp Tetriz\Main\bin\Debug\Main.exe.config
+C:\Users\canal\source\repos\Trabalho  atp Tetriz\Main\bin\Debug\Main.exe
+C:\Users\canal\source\repos\Trabalho  atp Tetriz\Main\bin\Debug\Main.pdb
+C:\Users\canal\source\repos\Trabalho  atp Tetriz\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\canal\source\repos\Trabalho  atp Tetriz\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\canal\source\repos\Trabalho  atp Tetriz\Main\obj\Debug\Main.exe
+C:\Users\canal\source\repos\Trabalho  atp Tetriz\Main\obj\Debug\Main.pdb
